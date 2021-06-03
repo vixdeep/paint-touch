@@ -45,7 +45,7 @@ var last_position_of_x, last_position_of_y;
         ctx.stroke();
         
 
-        last_position_of_x = current_position_of_mouse_x; 
-        last_position_of_y = current_position_of_mouse_y;
+        last_position_of_x = current_position_of_touch_x; 
+        last_position_of_y = current_position_of_touch_y;
     }
 
